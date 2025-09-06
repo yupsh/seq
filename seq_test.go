@@ -7,6 +7,7 @@ import (
 	"time"
 
 	yup "github.com/yupsh/framework"
+
 	"github.com/yupsh/seq/opt"
 )
 
